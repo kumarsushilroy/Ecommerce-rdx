@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-rdx/static/css/main.5c79733e.css",
+    "main.js": "/Ecommerce-rdx/static/js/main.09d89e40.js",
+    "index.html": "/Ecommerce-rdx/index.html",
+    "main.5c79733e.css.map": "/Ecommerce-rdx/static/css/main.5c79733e.css.map",
+    "main.09d89e40.js.map": "/Ecommerce-rdx/static/js/main.09d89e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c79733e.css",
+    "static/js/main.09d89e40.js"
+  ]
+}
